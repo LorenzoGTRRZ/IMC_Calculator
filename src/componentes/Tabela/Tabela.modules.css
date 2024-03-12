@@ -1,0 +1,24 @@
+.blocoTab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.table {
+    width: 100%;
+    max-width: 30rem;
+    text-align: center;
+}
+
+#item-title {
+    padding-inline: 35px;
+}
+
+
+
+
+
+
+
+
